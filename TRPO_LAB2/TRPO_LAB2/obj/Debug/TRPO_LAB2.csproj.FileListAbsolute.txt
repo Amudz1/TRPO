@@ -1,0 +1,9 @@
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\obj\Debug\TRPO_LAB2.csproj.AssemblyReference.cache
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\obj\Debug\TRPO_LAB2.Properties.Resources.resources
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\obj\Debug\TRPO_LAB2.csproj.GenerateResource.cache
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\obj\Debug\TRPO_LAB2.csproj.CoreCompileInputs.cache
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\bin\Debug\TRPO_LAB2.exe.config
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\bin\Debug\TRPO_LAB2.exe
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\bin\Debug\TRPO_LAB2.pdb
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\obj\Debug\TRPO_LAB2.exe
+C:\Users\lapti\source\repos\TRPO_LAB2\TRPO_LAB2\obj\Debug\TRPO_LAB2.pdb
